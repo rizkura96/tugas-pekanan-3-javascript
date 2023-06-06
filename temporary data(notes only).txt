@@ -1,0 +1,10 @@
+var bilangan = 25;
+var akarKuadrat = Math.sqrt(bilangan);
+console.log("Akar kuadrat dari " + bilangan + " adalah " + akarKuadrat);
+
+
+function akarrKuadrat (a){
+    var hasilKuadrat = Math.sqrt(a)   
+    console.log("jadi, akar kuadrat dari "+ a +" adalah "+ hasilKuadrat) 
+}
+akarrKuadrat(25)

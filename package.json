@@ -1,0 +1,19 @@
+{
+  "name": "tugas-pekanan-3-javascript",
+  "version": "1.0.0",
+  "description": "Tugas Pekanan 3 SanberCode - Javascript",
+  "main": "soal1.js",
+  "scripts": {
+    "test": "node <file name>"
+  },
+  "keywords": [
+    "tugas",
+    "pekanan",
+    "3"
+  ],
+  "author": "Rizki Kurniawan Rasyid",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
